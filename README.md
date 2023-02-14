@@ -1,5 +1,5 @@
 # example_library
-Created for eductational purpose
+Created for educational purpose
 
 ### About
 
