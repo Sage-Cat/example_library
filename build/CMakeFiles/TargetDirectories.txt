@@ -1,0 +1,3 @@
+C:/Users/vpavl3/Desktop/example_library/build/CMakeFiles/SimpleLogger.dir
+C:/Users/vpavl3/Desktop/example_library/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vpavl3/Desktop/example_library/build/CMakeFiles/ZERO_CHECK.dir

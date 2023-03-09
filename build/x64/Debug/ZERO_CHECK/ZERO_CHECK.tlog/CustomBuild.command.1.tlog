@@ -1,0 +1,10 @@
+^C:\USERS\VPAVL3\DESKTOP\EXAMPLE_LIBRARY\BUILD\CMAKEFILES\5BA78318911BCA547B51A082E0763074\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vpavl3/Desktop/example_library -BC:/Users/vpavl3/Desktop/example_library/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vpavl3/Desktop/example_library/build/SimpleLogger.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
